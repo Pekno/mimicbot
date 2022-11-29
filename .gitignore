@@ -1,3 +1,10 @@
+node_modules
+*.env
+sounds/*
+users/*
+!users/default
+conf.js
+
 # Logs
 logs
 *.log
