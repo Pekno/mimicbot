@@ -1,11 +1,11 @@
 {
-  "name": "donnie-thornberry-bot",
+  "name": "mimicbot",
   "version": "1.0.0",
-  "description": "Funny discord bot to troll your friends.",
-  "main": "bot.js",
+  "description": "Impersonate your friends with this discord bot",
+  "main": "./src/main/bot.js",
   "type": "module",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node -r ."
   },
   "author": "aaronr5",
   "license": "MIT",

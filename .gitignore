@@ -4,6 +4,7 @@ sounds/*
 users/*
 !users/default
 conf.js
+.vscode
 
 # Logs
 logs
