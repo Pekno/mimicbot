@@ -1,5 +1,11 @@
 # Mimic Bot
 
+<div align="center">
+  
+[![Docker pulls](https://img.shields.io/docker/pulls/pekno/mimicbot)](https://hub.docker.com/r/pekno/mimicbot)
+  
+</div>
+
 ## Description
 
 Mimic Bot is a Discord bot designed to impersonate a targeted user by recording their voice and replaying audio files to mimic their speech. The bot starts recording the targeted user and, once it has collected enough audio files, can impersonate and act as the user during conversations.
