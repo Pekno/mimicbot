@@ -1,4 +1,4 @@
-# Mimic Bot
+# ![Logo](logo.png) Mimic Bot
 
 <div align="center">
   
