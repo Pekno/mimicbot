@@ -1,7 +1,8 @@
 # ![Logo](logo.png) Mimic Bot
 
 <div align="center">
-  
+
+![GitHub Tag](https://img.shields.io/github/v/tag/pekno/mimicbot?label=latest%20version)
 [![Docker pulls](https://img.shields.io/docker/pulls/pekno/mimicbot)](https://hub.docker.com/r/pekno/mimicbot)
   
 </div>
